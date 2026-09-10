@@ -1,7 +1,7 @@
 # Información
-- Nombre
-- No. Control
-- Grupo:
+- Nombre: Luisa Alejandra Ayala Rojas
+- No. Control: 1224100603
+- Grupo: GTI174
 
 ## Especificaciones del proyecto
 | Nombre del proyecto | Framework | versión |
@@ -22,4 +22,7 @@ Para que la aplicación funcione se necesitan las siguientes variables:
 ## Participantes
 - [Luisa Rojas](https://github.com/LuisaRojas-090)
 
-<img src="https://tse2.mm.bing.net/th/id/OIP.NVlSG1Pa3Plw9Qui_m9PYQHaFi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3">
+<img src="https://tse2.mm.bing.net/th/id/OIP.NVlSG1Pa3Plw9Qui_m9PYQHaFi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width"100" align="center">
+
+## Descripción general
+El objetivo del proyecto es comprender GIT
