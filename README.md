@@ -2,7 +2,7 @@
 - Nombre: Luisa Alejandra Ayala Rojas
 - No. Control: 1224100603
 - Grupo: GTI174
-
+- Colaborador: jose Daniel Moya Vargas
 ## Especificaciones del proyecto
 | Nombre del proyecto | Framework | versión |
 | -- | -- | -- |
